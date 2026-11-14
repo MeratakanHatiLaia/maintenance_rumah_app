@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "436622193589",
+    "project_id": "maintenancerumah-f93c5",
+    "storage_bucket": "maintenancerumah-f93c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436622193589:android:58f68ddd96215a425b1ffc",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pertama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtPPP8fKJGX2hx2EREkaql-5-1h9U-LqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
